@@ -1,2 +1,8 @@
-# Back_proyecto_bicicletas
-Backend
+# Project-CRM-Back
+
+npm i
+
+
+# RUN
+
+npm start
